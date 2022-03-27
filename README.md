@@ -1,12 +1,12 @@
 # Building a Backend Service in Go
 
 ## Contents
-- Overview
-- Caveats
-- Planning
-  - Requirements
-  - Architecture
-- Execution
+- [Overview](#overview)
+- [Caveats](#caveats)
+- [Planning](#planning)
+  - [Requirements](#requirements)
+  - [Architecture](#architecture)
+- [Execution](#execution)
   - API Documentation
   - Models
   - Service
